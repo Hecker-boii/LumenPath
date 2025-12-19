@@ -23,3 +23,6 @@ Thumbs.db
 
 # IDE
 .vscode/
+# Expo / React Native
+.expo/
+dsarg7-ui/.expo/
